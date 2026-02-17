@@ -116,6 +116,7 @@
 
 ## Additional Resources
 
+* [GitBook Setup Guide](GITBOOK-SETUP.md)
 * [Glossary](GLOSSARY.md)
 
 ## About This Guide

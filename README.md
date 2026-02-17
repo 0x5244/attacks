@@ -41,6 +41,14 @@ Each attack entry includes:
 
 Start by exploring the [Categories of Attacks](categories.md) or jump directly to specific attacks using the navigation menu.
 
+### Using This Documentation
+
+**📚 View as GitBook**: This repository is configured for GitBook! Import it to [GitBook.com](https://www.gitbook.com) for a beautiful, searchable documentation experience. See the [GitBook Setup Guide](GITBOOK-SETUP.md) for instructions.
+
+**🔍 Quick Search**: Use the [Quick Reference Guide](QUICK-REFERENCE.md) to quickly find attacks by category or severity.
+
+**📖 Browse on GitHub**: Navigate using the table of contents in [SUMMARY.md](SUMMARY.md) to explore all attacks.
+
 ---
 
 **Note**: This is a living document that will be updated as new attack vectors emerge and security practices evolve.
