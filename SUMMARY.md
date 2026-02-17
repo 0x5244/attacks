@@ -1,6 +1,7 @@
 # Table of Contents
 
 * [Introduction](README.md)
+* [Quick Reference Guide](QUICK-REFERENCE.md)
 * [Attack Categories Overview](Attack-and-Remediation.md#categories-of-attacks)
 
 ## Specific Attacks
@@ -112,6 +113,10 @@
 * [50. Microservices Communication Vulnerabilities](Attack-and-Remediation.md#50-microservices-communication-vulnerabilities)
 
 ---
+
+## Additional Resources
+
+* [Glossary](GLOSSARY.md)
 
 ## About This Guide
 
