@@ -39,7 +39,7 @@ Each attack entry includes:
 
 ## Getting Started
 
-Start by exploring the [Categories of Attacks](categories.md) or jump directly to specific attacks using the navigation menu.
+Start by exploring the [Categories of Attacks](Attack-and-Remediation.md#categories-of-attacks) or jump directly to specific attacks using the navigation menu.
 
 ### Using This Documentation
 
